@@ -14,7 +14,7 @@ Location: <b>Israel</b>
 
 # <div align="center">Technological Skills
   * [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/) Administration
-  * [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) Administration
+  * ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) Administration
   * [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
   * <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" style="margin-bottom: 7px, margin-top: 5px;"/> - Currently studying
   * IaC: TerraForm, Ansible
