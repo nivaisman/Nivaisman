@@ -14,7 +14,7 @@ Location: <b>Israel</b>
 
 # <div align="center">Technological Skills
   * [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/) Administration
-  * [![Linux](https://svgshare.com/i/Zhy.svg)](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) Administration
+  * [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) Administration
   * [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
   * <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" style="margin-bottom: 7px, margin-top: 5px;"/> - Currently studying
   * IaC: TerraForm, Ansible
@@ -25,12 +25,7 @@ Location: <b>Israel</b>
 
 # <div align="center">Certifications</div>
       * AWS Certified Cloud Practitioner
-      * AWS Solutions Architect Associate - <b>STB</b>
+      * CyberArk Certified PAM Defender
 
 # Finished Projects
   * [SCP](https://github.com/nivaisman/MyScripts/blob/main/Shell-scripts/scp.sh) - A bash script that simplifies the work with SCP command.
-
-# Currently Working on
-  * Currently studying [k8s](https://kubernetes.io/) on udemy - Provisioning K8s Clusters on AWS infrastructure<br>
-    using [Terraform](https://www.terraform.io/)
-  * Passing the [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
